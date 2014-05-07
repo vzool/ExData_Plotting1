@@ -1,3 +1,5 @@
+## NOTE: To run plot1.R include source("plot1.R") and then type plot1(), and to run plot2.R include it and then type plot2(), so to run any plotX.R include source("plotX.R") and type plotX().
+
 ## Introduction
  
 This assignment uses data from

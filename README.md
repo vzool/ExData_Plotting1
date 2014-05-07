@@ -1,4 +1,8 @@
-## NOTE: To run plot1.R include source("plot1.R") and then type plot1(), and to run plot2.R include it and then type plot2(), so to run any plotX.R include source("plotX.R") and type plotX().
+## NOTES: 
+
+#1- To run plot1.R include source("plot1.R") and then type plot1(), and to run plot2.R include it and then type plot2(), so to run any plotX.R include source("plotX.R") and type plotX().
+
+#2- All Images file created by plotX.R files are in transparent background, just like examples files forked from the  original repository.
 
 ## Introduction
  
